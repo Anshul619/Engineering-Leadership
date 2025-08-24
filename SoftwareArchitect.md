@@ -14,6 +14,8 @@
 | 8  | **Strategic Coder**         | Write code that sets direction, prototypes, and standards - not all production code.              | Programmers focus on building features; architects code more strategically.                                              |
 | 9  | **Consider Scale**          | Design systems that handle growth (users, data, traffic).                                       | Programmers optimize current features; architects ensure scalability.                                                    |
 | 10 | **Cost Sensitive**          | Keep in mind financial cost of infrastructure, tools, and solutions.                            | Programmers rarely handle cost considerations; architects must balance tech vs. budget.                                  |
+| 11 | **Testability**          | How a tester will test the solution and/or its parts is important for rapid releases and the bottom line.  If the solution lends itself to automated vs manual testing is also an important consideration.                          |                                  |
+| 12 | **Define Requirements**          | Ability to deconstruct abstractions presented by the business, and use them to create concrete requirements for senior devs.                        |                                  |
 
 # Read more
 - [What Software Architects Do That Programmers DON'T?](https://www.youtube.com/watch?v=IwrvE-wHm84)
